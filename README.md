@@ -11,4 +11,4 @@ The goal of **DVPATS** is to help security learners, threat modelers, and develo
     
     2.Anand Ganesan
     
-    3.Swarup Natukla
+    3.Swarup Natukula
