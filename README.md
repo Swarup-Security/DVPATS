@@ -5,6 +5,8 @@
 
 The goal of **DVPATS** is to help security learners, threat modelers, and developers practice the art of documentation-based threat modeling. By reviewing these flawed specs, users can learn how to spot vulnerabilities early in the development lifecycle—before code is written or deployed—mirroring how attackers and security architects assess risks from publicly available or internal documentation.
 
+DVPATS can be used to verify the automated threamodeling and design reviews by Agentic AI tools.
+
 **Owners:**
 
     1.Prashant Venkatesh
