@@ -1,5 +1,6 @@
 **DVPATS - Damn Vulnerable Product and Technical Specifications**
 
+Have you ever found yourself questioning whether your AI-based threat modeling and design review tools are truly uncovering all the threats? Have you ever wanted a way to validate their effectiveness with real-world-like, documentation-driven inputs? If yes — you're in the right place.
 
 **DVPATS** is an intentionally crafted set of insecure product and technical documentation designed for educational purposes. It simulates real-world product manuals, architecture diagrams, API specs, and technical overviews—all laced with embedded design flaws, insecure assumptions, and potential misconfigurations.
 
